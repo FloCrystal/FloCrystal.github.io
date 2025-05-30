@@ -65,7 +65,7 @@ Kailin Jiang\*, Yuntao Du\*, Yukai Ding, Yuchen Ren, **Ning Jiang**, Zhi Gao, Zi
 - **2022.05** American College Mathematical Contest in Modeling - **Meritorious Winner**.
 
 # 📖 Educations
-- **2025.09 - 2028.06 (expected)**, Master of Control Science and Engineering, Northeast Forestry University, Harbin, China.
+- **2025.09 - 2028.06**, Master of Control Science and Engineering, Northeast Forestry University, Harbin, China.
 - **2020.09 - 2024.06**, Bachelor of Automation, Anhui Polytechnic University, Wuhu, China. Supervised by [Prof. Yaocong Hu](https://cee.ahpu.edu.cn/_s31/2023/0918/c2103a200999/page.psp) and [Prof. Wei Zhang](https://www.ahpu.edu.cn/slxy/2018/0331/c2715a100596/page.htm).
 
 # 💻 Internships 
