@@ -61,6 +61,7 @@ Kailin Jiang\*, Yuntao Du\*, Yukai Ding, Yuchen Ren, **Ning Jiang**, Zhi Gao, Zi
 - **2024.09** Outstanding Undergraduate Thesis Award by the Anhui Provincial Automation Society.
 - **2024.05** Outstanding Graduate of Regular Higher Education Institutions in Anhui Province.
 - **2023.09** Top 100 University Students of Anhui Province.
+- **2023.07** Top 10 University Students of Anhui Polytechnic University.
 - **2023.04** China International“Internet Plus” College Students’ Innovation and Entrepreneurship Competition - **National Bronze Award**.
 - **2022.05** American College Mathematical Contest in Modeling - **Meritorious Winner**.
 
