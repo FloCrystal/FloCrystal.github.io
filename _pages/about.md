@@ -55,7 +55,7 @@ Kailin Jiang\*, Yuntao Du\*, Yukai Ding, Yuchen Ren, **Ning Jiang**, Zhi Gao, Zi
 
 
 # 📰 Peer Review
-- Computers and Electronics in Agriculture Reviwer
+- Computers and Electronics in Agriculture Reviewer
   
 # 🎖 Honors and Awards
 - **2024.09** Outstanding Undergraduate Thesis Award by the Anhui Provincial Automation Society.
