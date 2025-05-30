@@ -70,3 +70,27 @@ Kailin Jiang\*, Yuntao Du\*, Yukai Ding, Yuchen Ren, **Ning Jiang**, Zhi Gao, Zi
 
 # 💻 Internships 
 - **2024.03 - now**, Key Laboratory of Advanced Perception and Intelligent Control of High-end Equipment, Ministry of Education (Wuhu, China). Supervised by Prof. Yaocong Hu and Prof. Ke Xu.
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map Widget</title>
+    <style>
+        .map-container {
+            width: 300px; 
+            margin: 0 auto; 
+            text-align: center; 
+        }
+        .map-container iframe {
+            width: 100%; 
+            height: 300px; 
+        }
+    </style>
+</head>
+<body>
+    <div class="map-container">
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=23pIdJVhMjN_8WNUnKTi-FQTV-hOMyUeuluWO9V4xPc&cl=ffffff&w=a"></script>
+    </div>
+</body>
+</html>
