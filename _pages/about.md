@@ -30,10 +30,11 @@ Currently, my total number of citations on Google Scholar is over 100. <a href='
 
 # 📝 Publications 
 *: Equal Contribution
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Agriculture</div><img src='images/yolo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Agriculture</div><img src='images/yolo.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [An Attention Mechanism-Improved YOLOv7 Object Detection Algorithm for Hemp Duck Count Estimation](https://www.mdpi.com/2077-0472/12/10/1659)
+
 Kailin Jiang\*, Tianyu Xie, Rui Yan, Xi Wen, Danyang Li\*, Hongbo Jiang, **Ning Jiang**, Ling Feng, Xuliang Duan, Jianjun Wang 【**ESI Highly Cited Paper, Editor’s Choice, JCR Q1**】
 - Agriculture 2022, 12(10), 1659.
 </div>
@@ -46,7 +47,7 @@ Kailin Jiang\*, Tianyu Xie, Rui Yan, Xi Wen, Danyang Li\*, Hongbo Jiang, **Ning 
 
 [When Large Multimodal Models Confront Evolving Knowledge: Challenges and Pathways]()
 
- Kailin Jiang\*, Yuntao Du\*, Yukai Ding, Yuchen Ren, **Ning Jiang**, Zhi Gao, Zilong Zheng, Lei Liu, Bin Li, Qing Li.【2025.6】<br>
+Kailin Jiang\*, Yuntao Du\*, Yukai Ding, Yuchen Ren, **Ning Jiang**, Zhi Gao, Zilong Zheng, Lei Liu, Bin Li, Qing Li.【2025.6】<br>
 [![arXiv](https://img.shields.io/badge/Arxiv-2505.19509-b31b1b.svg?logo=arXiv)]() [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-EVOKE-blue)](https://huggingface.co/datasets/kailinjiang/EVOKE)   [![code](https://img.shields.io/badge/Code-EVOKE-blue?logo=github)](https://github.com/EVOKE-LMM/EVOKE) [![website](https://img.shields.io/badge/Website-EVOKE-orange?logo=homepage)](https://evoke-lmm.github.io/)
 </div>
 </div>
