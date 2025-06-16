@@ -29,7 +29,8 @@ Currently, my total number of citations on Google Scholar is over 100. <a href='
 - **2022.10**: &nbsp;🎉🎉 Our new paper has been accepted by Agriculture!
 
 # 📝 Publications 
-*: Equal Contribution
+*: Co-First Author (Equal Contribution)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Agriculture</div><img src='images/yolov7.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -41,7 +42,8 @@ Kailin Jiang\*, Tianyu Xie, Rui Yan, Xi Wen, Danyang Li\*, Hongbo Jiang, **Ning 
 </div>
 
 # 📝 Preprints
-*: Equal Contribution
+*: Co-First Author (Equal Contribution)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_overview/EVOKE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
