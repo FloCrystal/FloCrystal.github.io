@@ -66,10 +66,7 @@ Kailin Jiang\*, Yuntao Du\*, Yukai Ding, Yuchen Ren, **Ning Jiang**, Zhi Gao, Zi
 
 # 📖 Educations
 - **2025.09 - 2028.06**, Master of Control Science and Engineering, Northeast Forestry University, Harbin, China.
-- **2020.09 - 2024.06**, Bachelor of Automation, Anhui Polytechnic University, Wuhu, China. Supervised by [Prof. Yaocong Hu](https://cee.ahpu.edu.cn/_s31/2023/0918/c2103a200999/page.psp) and [Prof. Wei Zhang](https://www.ahpu.edu.cn/slxy/2018/0331/c2715a100596/page.htm).
-
-# 💻 Internships 
-- **2024.03 - now**, Key Laboratory of Advanced Perception and Intelligent Control of High-end Equipment, Ministry of Education (Wuhu, China). Supervised by [Prof. Yaocong Hu](https://cee.ahpu.edu.cn/_s31/2023/0918/c2103a200999/page.psp) and [Prof. Ke Xu](https://loop.frontiersin.org/people/1333327/overview).
+- **2020.09 - 2024.06**, Bachelor of Automation, Anhui Polytechnic University, Wuhu, China. Supervised by [Prof. Yaocong Hu](https://cee.ahpu.edu.cn/_s31/2023/0918/c2103a200999/page.psp), [Prof. Wei Zhang](https://www.ahpu.edu.cn/slxy/2018/0331/c2715a100596/page.htm), and [Prof. Ke Xu](https://loop.frontiersin.org/people/1333327/overview).
 
 
 <html lang="en">
