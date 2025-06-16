@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ning Jiang"
-  avatar           : "images/picture.png"
+  avatar           : "images/me.png"
   bio              : "Master's student at NEFU"
   location         : "Harbin, China"
   employer         :
