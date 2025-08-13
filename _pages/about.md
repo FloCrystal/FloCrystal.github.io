@@ -26,6 +26,7 @@ Currently, my total number of citations on Google Scholar is over 100. <a href='
 
 
 # 🔥 News
+- **2024.06**: &nbsp;📣📣 I received my B.E. degree from [Anhui Polytechnic University (AHPU)](https://www.ahpu.edu.cn/), awarded the Outstanding Graduate!
 - **2022.10**: &nbsp;🎉🎉 Our new paper has been accepted by Agriculture!
 
 # 📝 Publications 
