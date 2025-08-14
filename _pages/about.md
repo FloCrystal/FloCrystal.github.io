@@ -35,9 +35,7 @@ Currently, my total number of citations on Google Scholar is over 100. <a href='
 # 📝 Publications 
 *: Co-First Author (Equal Contribution)
 
-![Agriculture](https://img.shields.io/badge/Agriculture-blue) [An Attention Mechanism-Improved YOLOv7 Object Detection Algorithm for Hemp Duck Count Estimation](https://www.mdpi.com/2077-0472/12/10/1659) Kailin Jiang\*, Tianyu Xie, Rui Yan, Xi Wen, Danyang Li\*, Hongbo Jiang, **Ning Jiang**, Ling Feng, Xuliang Duan, Jianjun Wang
-
-<b style="color: #ff0000;">ESI Highly Cited Paper, Editor’s Choice Articles!</b>
+![Agriculture](https://img.shields.io/badge/Agriculture-blue) [An Attention Mechanism-Improved YOLOv7 Object Detection Algorithm for Hemp Duck Count Estimation](https://www.mdpi.com/2077-0472/12/10/1659) Kailin Jiang\*, Tianyu Xie, Rui Yan, Xi Wen, Danyang Li\*, Hongbo Jiang, **Ning Jiang**, Ling Feng, Xuliang Duan, Jianjun Wang <b style="color: #ff0000;">【ESI Highly Cited Paper, Editor’s Choice Articles】</b>
 
 
 # 📝 Preprints
