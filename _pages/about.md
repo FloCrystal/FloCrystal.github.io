@@ -28,15 +28,18 @@ Currently, my total number of citations on Google Scholar is over 100. <a href='
 
 
 # 🔥 News
-- **now**: &nbsp;🎓🎓 I have **2** papers that have been submitted and are **under review**.
+- **now**: &nbsp;🎓🎓 I have **1** paper that have been submitted and are **under review**.
+- **2025.09**: &nbsp;🎉🎉 Our new paper has been accepted by **Sensors**!
 - **2024.06**: &nbsp;📣📣 I received my B.E. degree from [Anhui Polytechnic University (AHPU)](https://www.ahpu.edu.cn/), awarded the Outstanding Graduate!
 - **2022.10**: &nbsp;🎉🎉 Our new paper has been accepted by **Agriculture**!
 
 # 📝 Publications 
 *: Co-First Author (Equal Contribution)
 
-![Agriculture](https://img.shields.io/badge/Agriculture-blue) [An Attention Mechanism-Improved YOLOv7 Object Detection Algorithm for Hemp Duck Count Estimation](https://www.mdpi.com/2077-0472/12/10/1659) Kailin Jiang\*, Tianyu Xie, Rui Yan, Xi Wen, Danyang Li\*, Hongbo Jiang, **Ning Jiang**, Ling Feng, Xuliang Duan, Jianjun Wang <b style="color: #ff0000;">【ESI Highly Cited Paper, Editor’s Choice Articles】</b>
+![Agriculture](https://img.shields.io/badge/Agriculture-green) [An Attention Mechanism-Improved YOLOv7 Object Detection Algorithm for Hemp Duck Count Estimation](https://www.mdpi.com/2077-0472/12/10/1659) Kailin Jiang\*, Tianyu Xie, Rui Yan, Xi Wen, Danyang Li\*, Hongbo Jiang, **Ning Jiang**, Ling Feng, Xuliang Duan, Jianjun Wang <b style="color: #ff0000;">【ESI Highly Cited Paper, Editor’s Choice Articles】</b>
 
+
+![Sensors](https://img.shields.io/badge/Sensors-cyan) [TE-TransReID: Towards Efficient Person Re-Identification via Local Feature Embedding and Lightweight Transformer](https://www.mdpi.com/1424-8220/25/17/5461) Xiaoyu Zhang, Rui Cai, **Ning Jiang**, Minwen Xing, Ke Xu, Huicheng Yang, Wenbo Zhu,  Yaocong Hu
 
 # 📝 Preprints
 *: Co-First Author (Equal Contribution)
