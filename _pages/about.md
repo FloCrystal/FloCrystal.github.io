@@ -54,6 +54,20 @@ Kailin Jiang\*, Yuntao Du\*, Yukai Ding, Yuchen Ren, **Ning Jiang**, Zhi Gao, Zi
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_overview/MINED.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MINED: Probing and Updating with Multimodal Time-Sensitive Knowledge for Large Multimodal Models]()
+
+ Kailin Jiang\*, **Ning Jiang\***, Yuchen Ren, Yuchen Li, Yifan Gao, Jinhe Bi, Yunpu Ma, Qingqing Liu, Xianhao Wang, Yifan Jia, Hongbo Jiang, yaocong hu, Bin Li, Lei Liu, Yuntao Du\*.【2025.5】<br>
+ [![website](https://img.shields.io/badge/Website-MINED-orange?logo=homepage)](https://mined-lmm.github.io/)
+
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_overview/KORE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
