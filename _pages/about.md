@@ -49,7 +49,7 @@ Currently, my total number of citations on Google Scholar is over 100. <a href='
 
 [When Large Multimodal Models Confront Evolving Knowledge: Challenges and Pathways](https://arxiv.org/abs/2505.24449)
 
-Kailin Jiang\*, Yuntao Du\*, Yukai Ding, Yuchen Ren, **Ning Jiang**, Zhi Gao, Zilong Zheng, Lei Liu, Bin Li, Qing Li.【2025.6】<br>
+Kailin Jiang\*, Yuntao Du\*, Yukai Ding, Yuchen Ren, **Ning Jiang**, Zhi Gao, Zilong Zheng, Lei Liu, Bin Li, Qing Li.【2025.3】<br>
 [![arXiv](https://img.shields.io/badge/Arxiv-2505.24449-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.24449) [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-EVOKE-blue)](https://huggingface.co/datasets/kailinjiang/EVOKE)   [![code](https://img.shields.io/badge/Code-EVOKE-blue?logo=github)](https://github.com/EVOKE-LMM/EVOKE)  [![website](https://img.shields.io/badge/Website-EVOKE-orange?logo=homepage)](https://evoke-lmm.github.io/) [![Slides](https://img.shields.io/badge/%F0%9F%93%8A%20Slides-EVOKE-BF55EC)](https://evoke-lmm.github.io/EVOKE/slides/When%20Large%20Multimodal%20Models%20Confront%20Evolving%20Knowledge%20Challenges%20and%20Pathways.pdf)
 </div>
 </div>
@@ -61,8 +61,7 @@ Kailin Jiang\*, Yuntao Du\*, Yukai Ding, Yuchen Ren, **Ning Jiang**, Zhi Gao, Zi
 [MINED: Probing and Updating with Multimodal Time-Sensitive Knowledge for Large Multimodal Models]()
 
  Kailin Jiang\*, **Ning Jiang\***, Yuchen Ren, Yuchen Li, Yifan Gao, Jinhe Bi, Yunpu Ma, Qingqing Liu, Xianhao Wang, Yifan Jia, Hongbo Jiang, yaocong hu, Bin Li, Lei Liu, Yuntao Du\*.【2025.5】<br>
- [![website](https://img.shields.io/badge/Website-MINED-orange?logo=homepage)](https://mined-lmm.github.io/)
-
+ [![arXiv](https://img.shields.io/badge/Arxiv-2510.19457-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2510.19457) [![website](https://img.shields.io/badge/Website-MINED-orange?logo=homepage)](https://mined-lmm.github.io/)
 
 </div>
 </div>
@@ -74,7 +73,7 @@ Kailin Jiang\*, Yuntao Du\*, Yukai Ding, Yuchen Ren, **Ning Jiang**, Zhi Gao, Zi
 [KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Augmentations and Constraints]()
 
 Kailin Jiang, Hongbo Jiang, **Ning Jiang**, Zhi Gao, Jinhe Bi, Yuchen Ren, Bin Li, Yuntao Du, Lei Liu, Qing Li.【2025.9】<br>
-[![arXiv](https://img.shields.io/badge/Arxiv-2505.24449-b31b1b.svg?logo=arXiv)]() [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-KORE-blue)](https://huggingface.co/datasets/kailinjiang/KORE-74K)  [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-KORE-blue)](https://huggingface.co/collections/kailinjiang/kore-68c54e73b6a19eece0fff381) [![code](https://img.shields.io/badge/Code-KORE-blue?logo=github)](https://github.com/KORE-LMM)  [![website](https://img.shields.io/badge/Website-KORE-orange?logo=homepage)](https://kore-lmm.github.io/) [![Slides](https://img.shields.io/badge/%F0%9F%8E%9E%EF%B8%8F%20Slides-KORE-BF55EC)](https://kore-lmm.github.io/KORE/slides/KORE.pdf)
+[![arXiv](https://img.shields.io/badge/Arxiv-2510.19316-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2510.19316) [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-KORE-blue)](https://huggingface.co/datasets/kailinjiang/KORE-74K)  [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-KORE-blue)](https://huggingface.co/collections/kailinjiang/kore-68c54e73b6a19eece0fff381) [![code](https://img.shields.io/badge/Code-KORE-blue?logo=github)](https://github.com/KORE-LMM)  [![website](https://img.shields.io/badge/Website-KORE-orange?logo=homepage)](https://kore-lmm.github.io/) [![Slides](https://img.shields.io/badge/%F0%9F%93%8A%20Slides-KORE-BF55EC)](https://kore-lmm.github.io/KORE/slides/KORE.pdf)
 </div>
 </div>
 
