@@ -1,19 +1,19 @@
 main:
   - title: "KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Augmentations and Constraints"
-    authors: "Kailin Jiang, Hongbo Jiang, </strong>Ning Jiang</strong>, Zhi Gao, Jinhe Bi, Yuchen Ren, Bin Li, Yuntao Du, Lei Liu, Qing Li.【2025.9】"
+    authors: "Kailin Jiang, Hongbo Jiang, <strong>Ning Jiang</strong>, Zhi Gao, Jinhe Bi, Yuchen Ren, Bin Li, Yuntao Du, Lei Liu, Qing Li.【2025.9】"
     conference_short: Preprint
     conference: Preprint
     image: "images/paper_overview/KORE.png"
-    paper: "https://arxiv.org/pdf/2510.19316"
+    paper: "https://arxiv.org/abs/2510.19316"
     code: "https://github.com/KORE-LMM/KORE"
     website: "https://kore-lmm.github.io/"
 
   - title: "MINED: Probing and Updating with Multimodal Time-Sensitive Knowledge for Large Multimodal Models"
-    authors: "Kailin Jiang*, </strong>Ning Jiang*</strong>, Yuchen Ren, Yuchen Li, Yifan Gao, Jinhe Bi, Yunpu Ma, Qingqing Liu, Xianhao Wang, Yifan Jia, Hongbo Jiang, Yaocong Hu, Bin Li, Lei Liu, Yuntao Du*.【2025.5】"
+    authors: "Kailin Jiang*, <strong>Ning Jiang*</strong>, Yuchen Ren, Yuchen Li, Yifan Gao, Jinhe Bi, Yunpu Ma, Qingqing Liu, Xianhao Wang, Yifan Jia, Hongbo Jiang, Yaocong Hu, Bin Li, Lei Liu, Yuntao Du*.【2025.5】"
     conference_short: Preprint
     conference: Preprint
     image: "images/paper_overview/MINED.png"
-    paper: "https://arxiv.org/pdf/2510.19457"
+    paper: "https://arxiv.org/abs/2510.19457"
     website: "https://mined-lmm.github.io/"
 
 
