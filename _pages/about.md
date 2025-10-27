@@ -26,12 +26,56 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 Currently, my total number of citations on Google Scholar is over 100. <a href='https://scholar.google.com/citations?user=XfKD8e8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FFloCrystal%2Fflocrystal.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 
-
 # 🔥 News
+<style>
+/* News section scroll window styles (scoped) */
+.news .scroll-window { max-height: 640px; overflow-y: auto; padding: 8px 6px; border: 1px solid #eaeaea; border-radius: 12px; background: #fff; box-shadow: inset 0 1px 0 rgba(255,255,255,0.6), 0 6px 14px rgba(0,0,0,0.04); }
+.news .scroll-window::-webkit-scrollbar { width: 8px; }
+.news .scroll-window::-webkit-scrollbar-thumb { background: #ddd; border-radius: 4px; }
+</style>
+
+
+
+<div class="news" markdown="1">
+<div class="scroll-window" markdown="1">
 - **now**: &nbsp;🎓🎓 I have **1** paper that have been submitted and are **under review**.
 - **2025.09**: &nbsp;🎉🎉 Our new paper has been accepted by **Sensors**!
 - **2024.06**: &nbsp;📣📣 I received my B.E. degree from [Anhui Polytechnic University (AHPU)](https://www.ahpu.edu.cn/), awarded the Outstanding Graduate!
 - **2022.10**: &nbsp;🎉🎉 Our new paper has been accepted by **Agriculture**!
+
+</div>
+</div>
+
+<script>
+(function() {
+  function setNewsScrollWindowHeight() {
+    var container = document.querySelector('.news .scroll-window');
+    if (!container) return;
+    var firstLi = container.querySelector('li');
+    if (!firstLi) return; // fallback to CSS default max-height
+    var liRect = firstLi.getBoundingClientRect();
+    var liStyle = window.getComputedStyle(firstLi);
+    var marginTop = parseFloat(liStyle.marginTop) || 0;
+    var marginBottom = parseFloat(liStyle.marginBottom) || 0;
+    var perItem = liRect.height + (marginTop + marginBottom);
+    var target = perItem * 9; // show ~9 items
+    container.style.maxHeight = target + 'px';
+  }
+  function onReady(fn) {
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', fn, { once: true });
+    } else { fn(); }
+  }
+  onReady(setNewsScrollWindowHeight);
+  var resizeTimeout;
+  window.addEventListener('resize', function() {
+    clearTimeout(resizeTimeout);
+    resizeTimeout = setTimeout(setNewsScrollWindowHeight, 150);
+  });
+})();
+</script>
+
+
 
 # 📝 Publications 
 *: Co-First Author (Equal Contribution)
