@@ -297,11 +297,54 @@ Kailin Jiang, Hongbo Jiang, **Ning Jiang**, Zhi Gao, Jinhe Bi, Yuchen Ren, Bin L
 - Computers and Electronics in Agriculture Reviewer
   
 # 🎖 Honors and Awards
+
+<style>
+/* News section scroll window styles (scoped) */
+.news .scroll-window { max-height: 640px; overflow-y: auto; padding: 8px 6px; border: 1px solid #eaeaea; border-radius: 12px; background: #fff; box-shadow: inset 0 1px 0 rgba(255,255,255,0.6), 0 6px 14px rgba(0,0,0,0.04); }
+.news .scroll-window::-webkit-scrollbar { width: 8px; }
+.news .scroll-window::-webkit-scrollbar-thumb { background: #ddd; border-radius: 4px; }
+</style>
+
+
+
+<div class="news" markdown="1">
+<div class="scroll-window" markdown="1">
 - **2024.09** Outstanding Undergraduate Thesis Award by the Anhui Provincial Automation Society.
 - **2024.05** Outstanding Graduate of Regular Higher Education Institutions in Anhui Province.
 - **2023.09** Top 100 University Students of Anhui Province.
 - **2023.04** China International“Internet Plus” College Students’ Innovation and Entrepreneurship Competition - **National Bronze Award**.
 - **2022.05** American College Mathematical Contest in Modeling - **Meritorious Winner**.
+</div>
+</div>
+
+<script>
+(function() {
+  function setNewsScrollWindowHeight() {
+    var container = document.querySelector('.news .scroll-window');
+    if (!container) return;
+    var firstLi = container.querySelector('li');
+    if (!firstLi) return; // fallback to CSS default max-height
+    var liRect = firstLi.getBoundingClientRect();
+    var liStyle = window.getComputedStyle(firstLi);
+    var marginTop = parseFloat(liStyle.marginTop) || 0;
+    var marginBottom = parseFloat(liStyle.marginBottom) || 0;
+    var perItem = liRect.height + (marginTop + marginBottom);
+    var target = perItem * 9; // show ~9 items
+    container.style.maxHeight = target + 'px';
+  }
+  function onReady(fn) {
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', fn, { once: true });
+    } else { fn(); }
+  }
+  onReady(setNewsScrollWindowHeight);
+  var resizeTimeout;
+  window.addEventListener('resize', function() {
+    clearTimeout(resizeTimeout);
+    resizeTimeout = setTimeout(setNewsScrollWindowHeight, 150);
+  });
+})();
+</script>
 
 # 📖 Educations
 - **2025.09 - 2028.06**, Master of Control Science and Engineering, Northeast Forestry University, Harbin, China. Supervised by Prof. [Yining Xie](https://ccec.nefu.edu.cn/info/1237/4302.htm).
