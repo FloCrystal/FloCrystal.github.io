@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+<div>
+<a href="https://flocrystal.github.io/">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%27m%20Ning%20Jiang,%20%E6%B1%9F%E5%AE%81" 
+    alt="Hi, I'm Ning Jiang, 江宁" 
+    style="width: 100%; height: auto;"
+  >
+</a>
+</div>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
