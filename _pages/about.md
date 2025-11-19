@@ -412,7 +412,7 @@ BENI/刘惜君
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">东京人寿</div><img src='images/dongjingrenshou.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">东京人寿</div><img src='images//music/dongjingrenshou.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [东京人寿](https://www.bilibili.com/video/BV1UQNdeVETA/) [[🎥 Music Video]](https://y.qq.com/n/ryqq/mv/i0035051z2c)
