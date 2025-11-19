@@ -366,9 +366,9 @@ Kailin Jiang, Hongbo Jiang, **Ning Jiang**, Zhi Gao, Jinhe Bi, Yuchen Ren, Bin L
 
 
 # 🎼 My Favorite Music 
-### “音乐可以直达心灵深处，音乐是世界上唯一能以秒为单位，在瞬间改变人情绪状态的艺术。”
+### Music begins when the language ends.
 
-<div style="text-align:right;">——中央音乐学院原副院长周海宏教授</div>
+<div style="text-align:right;">——Claude Debussy</div>
 
 <script>
   // 页面加载完成后设置音量
