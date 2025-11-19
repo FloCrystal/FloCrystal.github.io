@@ -361,6 +361,40 @@ Kailin Jiang, Hongbo Jiang, **Ning Jiang**, Zhi Gao, Jinhe Bi, Yuchen Ren, Bin L
 - **2020.09 - 2024.06**, Bachelor of Automation, Anhui Polytechnic University, Wuhu, China. Supervised by Prof. [Yaocong Hu](https://cee.ahpu.edu.cn/_s31/2023/0918/c2103a200999/page.psp), Prof. [Wei Zhang](https://www.ahpu.edu.cn/slxy/2018/0331/c2715a100596/page.htm), and Dr. [Ke Xu](https://sic.ahpu.edu.cn/2025/0905/c11037a254562/page.htm).
 
 
+# 🎼 My Favorite Music 
+### “音乐可以直达心灵深处，音乐是世界上唯一能以秒为单位，在瞬间改变人情绪状态的艺术。”
+
+<div style="text-align:right;">——中央音乐学院原副院长周海宏教授</div>
+
+<script>
+  // 页面加载完成后设置音量
+  document.addEventListener('DOMContentLoaded', function() {
+    var audios = document.getElementsByClassName('myAudio');
+    for (var i = 0; i < audios.length; i++) {
+                audios[i].volume = 0.3; // 设置音量为30%
+            }
+  });
+</script>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">春弦 2020</div><img src='images/music/chunxian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[春弦](https://www.bilibili.com/video/BV1at4y1m7pj/)
+  
+塞壬唱片-MSR/横山克
+
+<i>春弦 2020</i>
+
+<audio class="myAudio" loop controls>
+  <source src="music/chunxian.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+</div>
+</div>
+
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
