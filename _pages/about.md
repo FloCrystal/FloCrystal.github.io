@@ -366,9 +366,7 @@ Kailin Jiang, Hongbo Jiang, **Ning Jiang**, Zhi Gao, Jinhe Bi, Yuchen Ren, Bin L
 
 
 # 🎼 My Favorite Music 
-### Music begins when the language ends.
-
-<div style="text-align:right;">——Claude Debussy</div>
+### _Music begins when the language ends._  <div style="text-align:right;">——Claude Debussy</div>
 
 <script>
   // 页面加载完成后设置音量
