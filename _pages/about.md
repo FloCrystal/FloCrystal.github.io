@@ -11,7 +11,7 @@ redirect_from:
 <div>
 <a href="https://flocrystal.github.io/">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20I'm%20Ning%20Jiang,%20江宁" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20I'm%20Ning%20Jiang,%20江宁&fontAlign=50&fontSize=50" 
     alt="Hi, I'm Ning Jiang, 江宁" 
     style="width: 100%; height: auto;"
   >
