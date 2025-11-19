@@ -376,6 +376,23 @@ Kailin Jiang, Hongbo Jiang, **Ning Jiang**, Zhi Gao, Jinhe Bi, Yuchen Ren, Bin L
   });
 </script>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">歌手2025 第13期</div><img src='images/music/yequ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[月半小夜曲](https://www.bilibili.com/video/BV14wtszKEfB/)
+  
+BENI/刘惜君
+
+<i>歌手2025 第13期</i>
+
+<audio class="myAudio" loop controls>
+  <source src="music/yequ.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">春弦</div><img src='images/music/chunxian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
