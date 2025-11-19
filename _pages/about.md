@@ -376,14 +376,14 @@ Kailin Jiang, Hongbo Jiang, **Ning Jiang**, Zhi Gao, Jinhe Bi, Yuchen Ren, Bin L
   });
 </script>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">春弦 2020</div><img src='images/music/chunxian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">春弦</div><img src='images/music/chunxian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [春弦](https://www.bilibili.com/video/BV1at4y1m7pj/)
   
 塞壬唱片-MSR/横山克
 
-<i>春弦 2020</i>
+<i>春弦</i>
 
 <audio class="myAudio" loop controls>
   <source src="music/chunxian.mp3" type="audio/mpeg">
