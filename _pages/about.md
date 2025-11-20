@@ -448,6 +448,27 @@ BENI/刘惜君
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Grace & Charm</div><img src='images//music/qianshi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[前世](https://www.bilibili.com/video/BV1J14yzyEa6/) [[🎥 Music Video]](https://y.qq.com/n/ryqq_v2/mv/w0012yu6xcz)
+  
+陈慧琳
+
+<i>Grace & Charm</i>
+
+<audio class="myAudio" loop controls>
+  <source src="music/qianshi.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+</div>
+</div>
+
+
+
+
+
 
 <html lang="en">
 <head>
