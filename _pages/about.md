@@ -448,6 +448,24 @@ BENI/刘惜君
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Binary</div><img src='images//music/xitiejie.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[囍帖街](https://www.bilibili.com/video/BV1PE411P7Qu/) [[🎥 Music Video]](https://y.qq.com/n/ryqq_v2/mv/r0036wb3o3q)
+  
+谢安琪
+
+<i>Binary</i>
+
+<audio class="myAudio" loop controls>
+  <source src="music/xitiejie.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Grace & Charm</div><img src='images//music/qianshi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
