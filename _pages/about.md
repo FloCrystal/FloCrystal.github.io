@@ -448,8 +448,28 @@ G.E.M. 邓紫棋
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">我们在中场相遇</div><img src='images//music/慢慢喜欢你.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[慢慢喜欢你](https://www.bilibili.com/video/BV1aC411a7Vr/) [[🎥 Music Video]](https://y.qq.com/n/ryqq/mv/l0025kq6ltn)
+  
+莫文蔚
+
+<i>我们在中场相遇</i>
+
+<audio class="myAudio" loop controls>
+  <source src="music/慢慢喜欢你.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban Emotions</div><img src='images//music/樱花树下.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
   
 [樱花树下](https://www.bilibili.com/video/BV1CT4y1N7PW/) [[🎥 Music Video]](https://y.qq.com/n/ryqq_v2/mv/c0017jd2fd5)
   
