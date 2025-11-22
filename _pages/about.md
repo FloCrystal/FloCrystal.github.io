@@ -502,7 +502,22 @@ G.E.M. 邓紫棋
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">呼吸</div><img src='images//music/词不达意.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[词不达意](https://www.bilibili.com/video/BV1mX4y1h7ye/) [[🎥 Music Video]](https://y.qq.com/n/ryqq_v2/mv/u0017z9zwxw)
+  
+林忆莲
 
+<i>呼吸</i>
+
+<audio class="myAudio" loop controls>
+  <source src="music/词不达意.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+</div>
+</div>
 
 
 
