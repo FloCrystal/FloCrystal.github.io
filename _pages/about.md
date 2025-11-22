@@ -379,7 +379,7 @@ Kailin Jiang, Hongbo Jiang, **Ning Jiang**, Zhi Gao, Jinhe Bi, Yuchen Ren, Bin L
   });
 </script>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">歌手2025 第13期</div><img src='images/music/yequ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">歌手2025 第13期</div><img src='images/music/月半小夜曲.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [月半小夜曲](https://www.bilibili.com/video/BV14wtszKEfB/)
@@ -389,7 +389,7 @@ BENI/刘惜君
 <i>歌手2025 第13期</i>
 
 <audio class="myAudio" loop controls>
-  <source src="music/yequ.mp3" type="audio/mpeg">
+  <source src="music/月半小夜曲.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -414,7 +414,7 @@ G.E.M. 邓紫棋
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">春弦</div><img src='images/music/chunxian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">春弦</div><img src='images/music/春弦.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [春弦](https://www.bilibili.com/video/BV1at4y1m7pj/)
@@ -424,14 +424,14 @@ G.E.M. 邓紫棋
 <i>春弦</i>
 
 <audio class="myAudio" loop controls>
-  <source src="music/chunxian.mp3" type="audio/mpeg">
+  <source src="music/春弦.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">东京人寿</div><img src='images//music/dongjingrenshou.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">东京人寿</div><img src='images//music/东京人寿.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [东京人寿](https://www.bilibili.com/video/BV1UQNdeVETA/) [[🎥 Music Video]](https://y.qq.com/n/ryqq/mv/i0035051z2c)
@@ -441,14 +441,14 @@ G.E.M. 邓紫棋
 <i>东京人寿</i>
 
 <audio class="myAudio" loop controls>
-  <source src="music/dongjingrenshou.mp3" type="audio/mpeg">
+  <source src="music/东京人寿.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban Emotions</div><img src='images//music/yinghuashuxia.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban Emotions</div><img src='images//music/樱花树下.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [樱花树下](https://www.bilibili.com/video/BV1CT4y1N7PW/) [[🎥 Music Video]](https://y.qq.com/n/ryqq_v2/mv/c0017jd2fd5)
@@ -458,7 +458,7 @@ G.E.M. 邓紫棋
 <i>Urban Emotions</i>
 
 <audio class="myAudio" loop controls>
-  <source src="music/yinghuashuxia.mp3" type="audio/mpeg">
+  <source src="music/樱花树下.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -466,7 +466,7 @@ G.E.M. 邓紫棋
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Binary</div><img src='images//music/xitiejie.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Binary</div><img src='images//music/喜帖街.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [囍帖街](https://www.bilibili.com/video/BV1PE411P7Qu/) [[🎥 Music Video]](https://y.qq.com/n/ryqq_v2/mv/r0036wb3o3q)
@@ -476,7 +476,7 @@ G.E.M. 邓紫棋
 <i>Binary</i>
 
 <audio class="myAudio" loop controls>
-  <source src="music/xitiejie.mp3" type="audio/mpeg">
+  <source src="music/喜帖街.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -484,7 +484,7 @@ G.E.M. 邓紫棋
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Grace & Charm</div><img src='images//music/qianshi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Grace & Charm</div><img src='images//music/前世.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [前世](https://www.bilibili.com/video/BV1J14yzyEa6/) [[🎥 Music Video]](https://y.qq.com/n/ryqq_v2/mv/w0012yu6xcz)
@@ -494,7 +494,7 @@ G.E.M. 邓紫棋
 <i>Grace & Charm</i>
 
 <audio class="myAudio" loop controls>
-  <source src="music/qianshi.mp3" type="audio/mpeg">
+  <source src="music/前世.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
