@@ -305,6 +305,21 @@ Kailin Jiang, Hongbo Jiang, **Ning Jiang**, Zhi Gao, Jinhe Bi, Yuchen Ren, Bin L
 </div>
 -->
 
+# 💡 Invention Patents
+As these works are patented in China, all these names are directly translated from Chinese.
+
+<div style="max-height: 300px; overflow: auto; font-size: 15px;">
+	<ul>
+		<li><strong><a href="https://www.patentguru.com/cn/search?q=%E4%B8%80%E7%A7%8D%E5%A4%9A%E6%A8%A1%E6%80%81%E8%BF%9B%E5%8C%96%E7%9F%A5%E8%AF%86%E6%B3%A8%E5%85%A5%E6%96%B9%E6%B3%95%E5%92%8C%E7%B3%BB%E7%BB%9F" target="_blank">Crowd Counting Method Based on Visual State Space Models and Cross-modal Feature Disentanglement</a></strong> (Public, 2025-12-12)<br>
+		   Inventor: Yaocong Hu, Xiaoyu Zhang, Rui Cai, **Ning Jiang**, Minwen Xing, Ke Xu, Wenbo Zhu, Jixing Zhao</li>
+		<li><strong><a href="https://www.patentguru.com/cn/search?q=%E4%B8%80%E7%A7%8D%E6%9C%89%E6%95%88%E7%9A%84%E6%B5%B7%E6%B4%8B%E5%93%BA%E4%B9%B3%E5%8A%A8%E7%89%A9%E5%A3%B0%E9%9F%B3%E8%87%AA%E5%8A%A8%E6%A3%80%E6%B5%8B%E5%92%8C%E5%88%86%E7%B1%BB%E6%96%B9%E6%B3%95" target="_blank">Road Semantic Segmentation Method Based on Lightweight Multi-scale Fusion Transformer</a></strong> (Public, 2025-02-14)<br>
+		   Inventor: Yaocong Hu, Mengbo Jia, Pindeng Wang, **Ning Jiang**, Xiao Liu, Jinwen Hong, Guoyang Wan, Ke Xu, Huicheng Yang</li>
+	</ul>
+</div>
+<!-- <div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div>  -->
+
+
+<span class='anchor' id='honors'></span>
 
 
 # 📰 Peer Review
