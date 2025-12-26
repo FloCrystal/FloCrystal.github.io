@@ -282,17 +282,6 @@ Kailin Jiang\*, Yuntao Du\*, Yukai Ding, Yuchen Ren, **Ning Jiang**, Zhi Gao, Zi
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_overview/MINED.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MINED: Probing and Updating with Multimodal Time-Sensitive Knowledge for Large Multimodal Models]()
-
- Kailin Jiang\*, **Ning Jiang\***, Yuchen Ren, Yuchen Li, Yifan Gao, Jinhe Bi, Yunpu Ma, Qingqing Liu, Xianhao Wang, Yifan Jia, Hongbo Jiang, yaocong hu, Bin Li, Lei Liu, Yuntao Du\*.【2025.5】<br>
- [![arXiv](https://img.shields.io/badge/Arxiv-2510.19457-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.19457) [![website](https://img.shields.io/badge/Website-MINED-orange?logo=homepage)](https://mined-lmm.github.io/)
-
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_overview/KORE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -310,9 +299,9 @@ As these works are patented in China, all these names are directly translated fr
 
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
 	<ul>
-		<li><strong><a href="https://www.patentguru.com/cn/search?q=%E5%9F%BA%E4%BA%8E%E8%A7%86%E8%A7%89%E7%8A%B6%E6%80%81%E7%A9%BA%E9%97%B4%E6%A8%A1%E5%9E%8B%E4%B8%8E%E8%B7%A8%E6%A8%A1%E6%80%81%E7%89%B9%E5%BE%81%E8%A7%A3%E8%80%A6%E7%9A%84%E4%BA%BA%E7%BE%A4%E8%AE%A1%E6%95%B0%E6%96%B9%E6%B3%95" target="_blank">Crowd Counting Method Based on Visual State Space Models and Cross-modal Feature Disentanglement</a></strong> (Public, 2025-12-12)<br>
+		<li><strong><a href="https://www.patentguru.com/cn/search?q=CN121121638A" target="_blank">Crowd Counting Method Based on Visual State Space Models and Cross-modal Feature Disentanglement</a></strong> (Public, 2025-12-12)<br>
 		   Inventor: Yaocong Hu, Xiaoyu Zhang, Rui Cai, **Ning Jiang**, Minwen Xing, Ke Xu, Wenbo Zhu, Jixing Zhao</li>
-		<li><strong><a href="https://www.patentguru.com/cn/search?q=%E8%83%A1%E8%80%80%E8%81%AA&assignee=%22%E5%AE%89%E5%BE%BD%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6%22&SortBy=pubdate_newest" target="_blank">Road Semantic Segmentation Method Based on Lightweight Multi-scale Fusion Transformer</a></strong> (Public, 2025-02-14)<br>
+		<li><strong><a href="https://www.patentguru.com/cn/CN119445107A" target="_blank">Road Semantic Segmentation Method Based on Lightweight Multi-scale Fusion Transformer</a></strong> (Public, 2025-02-14)<br>
 		   Inventor: Yaocong Hu, Mengbo Jia, Pindeng Wang, **Ning Jiang**, Xiao Liu, Jinwen Hong, Guoyang Wan, Ke Xu, Huicheng Yang</li>
 	</ul>
 </div>
