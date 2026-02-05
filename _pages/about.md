@@ -33,7 +33,7 @@ My research interests include continual learning and person re-identification. I
 
 If you are seeking any form of **academic cooperation**, please feel free to email me at `jiangning@nefu.edu.cn`
 
-Currently, my total number of citations on Google Scholar is over 100. <a href='https://scholar.google.com/citations?user=XfKD8e8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FFloCrystal%2Fflocrystal.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+Currently, my total number of citations on Google Scholar is over 200. <a href='https://scholar.google.com/citations?user=XfKD8e8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FFloCrystal%2Fflocrystal.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 
 # 🔥 News
