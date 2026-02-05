@@ -300,9 +300,9 @@ As these works are patented in China, all these names are directly translated fr
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
 	<ul>
 		<li><strong><a href="https://www.patentguru.com/cn/search?q=CN121121638A" target="_blank">Crowd Counting Method Based on Visual State Space Models and Cross-modal Feature Disentanglement</a></strong> (Public, 2025-12-12)<br>
-		   Inventor: Yaocong Hu, Xiaoyu Zhang, Rui Cai, **Ning Jiang**, Minwen Xing, Ke Xu, Wenbo Zhu, Jixing Zhao</li>
+		   Inventor: Yaocong Hu, Xiaoyu Zhang, Rui Cai, <strong><u>Ning Jiang</u></strong>, Minwen Xing, Ke Xu, Wenbo Zhu, Jixing Zhao</li>
 		<li><strong><a href="https://www.patentguru.com/cn/CN119445107A" target="_blank">Road Semantic Segmentation Method Based on Lightweight Multi-scale Fusion Transformer</a></strong> (Public, 2025-02-14)<br>
-		   Inventor: Yaocong Hu, Mengbo Jia, Pindeng Wang, **Ning Jiang**, Xiao Liu, Jinwen Hong, Guoyang Wan, Ke Xu, Huicheng Yang</li>
+		   Inventor: Yaocong Hu, Mengbo Jia, Pindeng Wang, <strong><u>Ning Jiang</u></strong>, Xiao Liu, Jinwen Hong, Guoyang Wan, Ke Xu, Huicheng Yang</li>
 	</ul>
 </div>
 <!-- <div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div>  -->
