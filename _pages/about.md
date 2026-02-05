@@ -384,6 +384,23 @@ As these works are patented in China, all these names are directly translated fr
   });
 </script>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">声生不息·华流季 第7期</div><img src='images/music/孤雏.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[孤雏](https://www.bilibili.com/video/BV1jJvfB7EUL/)
+  
+李佳薇
+
+<i>声生不息·华流季 第7期</i>
+
+<audio class="myAudio" loop controls>
+  <source src="music/孤雏.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">歌手2025 第13期</div><img src='images/music/月半小夜曲.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
