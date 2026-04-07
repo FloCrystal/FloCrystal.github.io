@@ -53,7 +53,7 @@ Currently, my total number of citations on Google Scholar is over 200. <a href='
 - **2026.01**: &nbsp;🎉🎉 One paper have been accepted by <strong style="color: #990000;">ICLR 2026</strong>! 
 - **2025.09**: &nbsp;🎉🎉 Our new paper has been accepted by **Sensors**!
 - **2024.06**: &nbsp;📣📣 I received my B.E. degree from [Anhui Polytechnic University (AHPU)](https://www.ahpu.edu.cn/), awarded the Outstanding Graduate!
-- **2022.10**: &nbsp;🎉🎉 Our new paper has been accepted by **Agriculture**!
+- **2022.10**: &nbsp;🎉🎉 Our new paper has been accepted by **Agriculture**<strong style="color: #990000;">(ESI Highly Cited Paper, Editor’s Choice Articles)</strong>!
 
 </div>
 </div>
