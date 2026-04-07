@@ -97,6 +97,176 @@ Currently, my total number of citations on Google Scholar is over 200. <a href='
 
 ![Sensors](https://img.shields.io/badge/Sensors-cyan) [TE-TransReID: Towards Efficient Person Re-Identification via Local Feature Embedding and Lightweight Transformer](https://www.mdpi.com/1424-8220/25/17/5461) Xiaoyu Zhang, Rui Cai, **Ning Jiang**, Minwen Xing, Ke Xu, Huicheng Yang, Wenbo Zhu,  Yaocong Hu
 
+
+<!-- ## Conference papers -->
+
+<style>
+/* Conference papers section styles (scoped) */
+.conference { font-family: "Times New Roman", Times, serif; font-size: 0.96em; }
+.conference .bibliography { list-style: none; margin: 0; padding: 0; }
+.conference .bibliography li { margin: 10px 0; }
+.conference .pub-row {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 14px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.conference .pub-row .abbr.pub-thumb {
+  position: relative;
+  flex: 0 0 320px;
+  max-width: 320px;
+  padding: 0 15px;
+}
+.conference .pub-row .abbr.pub-thumb img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 10px 16px rgba(0,0,0,0.12);
+}
+.conference .pub-row .abbr.pub-thumb .badge {
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  background: #e74d3c;
+  color: #fff;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+.conference .pub-content { flex: 1 1 auto; padding-left: 4px; }
+.conference .title { font-size: 1.14rem; font-weight: 700; line-height: 1.35; }
+.conference .author { font-size: 0.98rem; }
+.conference .periodical { font-size: 0.96rem; }
+.conference .conference-name { color: #8B0000; font-weight: bold; }
+.conference .links a { font-size: 12px !important; }
+.conference .links { margin-top: 10px; display: flex; gap: 10px; flex-wrap: wrap; }
+.conference .pub-button {
+  font-family: "Times New Roman", Times, serif;
+  background: #fff;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 0;
+  padding: 8px 14px;
+  font-size: 1rem;
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+  transition: transform .05s ease, box-shadow .2s ease, border-color .2s ease;
+}
+.conference .pub-button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 18px rgba(0,0,0,0.16);
+  border-color: #bbb;
+  text-decoration: none;
+}
+.conference .title a { color: #2a72d4; text-decoration: none; }
+.conference .title a:hover { text-decoration: underline; color: #1e5bb8; }
+/* Scroll window to show only a few items initially */
+.conference .scroll-window { max-height: 640px; overflow-y: auto; padding: 8px 6px; border: 1px solid #eaeaea; border-radius: 12px; background: #fff; box-shadow: inset 0 1px 0 rgba(255,255,255,0.6), 0 6px 14px rgba(0,0,0,0.04); }
+.conference .scroll-window::-webkit-scrollbar { width: 8px; }
+.conference .scroll-window::-webkit-scrollbar-thumb { background: #ddd; border-radius: 4px; }
+@media (max-width: 640px) {
+  .conference .pub-row { flex-direction: column; }
+  .conference .pub-row .abbr.pub-thumb { max-width: 100%; flex-basis: auto; }
+  .conference .scroll-window { max-height: 420px; }
+}
+</style>
+
+<div class="conference" markdown="1">
+<div class="scroll-window">
+<ul class="bibliography">
+
+{% for link in site.data.conference.main %}
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr pub-thumb" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    {% if link.image %} 
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto;">
+    {% endif %}
+    {% if link.conference_short %} 
+    <abbr class="badge">{{ link.conference_short }}</abbr>
+    {% endif %}
+  </div>
+  <div class="col-sm-9 pub-content" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="{{ link.arxiv | default: '/404.html' }}">{{ link.title }}</a></div>
+      <div class="author">{{ link.authors }}</div>
+      <div class="periodical"><em class="conference-name">{{ link.conference }}</em>
+      </div>
+    <div class="links">
+      {% if link.arxiv %}
+        <a href="{{ link.arxiv }}" class="pub-button arxiv" role="button" target="_blank">ArXiv</a>
+      {% endif %}
+      {% if link.huggingface_paper %}
+        <a href="{{ link.huggingface_paper }}" class="pub-button huggingface-paper" role="button" target="_blank">HuggingFace Paper</a>
+      {% endif %}
+      {% if link.code %}
+        <a href="{{ link.code }}" class="pub-button code" role="button" target="_blank">Code</a>
+      {% endif %}
+      {% if link.website %}
+        <a href="{{ link.website }}" class="pub-button website" role="button" target="_blank">Website</a>
+      {% endif %}
+      {% if link.dataset %}
+        <a href="{{ link.dataset }}" class="pub-button dataset" role="button" target="_blank">Dataset</a>
+      {% endif %}
+      {% if link.model %}
+        <a href="{{ link.model }}" class="pub-button model" role="button" target="_blank">Model</a>
+      {% endif %}
+      {% if link.poster %}
+        <a href="{{ link.poster }}" class="pub-button poster" role="button" target="_blank">Poster</a>
+      {% endif %}
+      {% if link.slides %}
+        <a href="{{ link.slides }}" class="pub-button slides" role="button" target="_blank">Slides</a>
+      {% endif %}
+    </div>
+</div>
+</div>
+</li>
+
+{% endfor %}
+
+</ul>
+</div>
+</div>
+
+<script>
+(function() {
+  function setConferenceScrollWindowHeight() {
+    var container = document.querySelector('.conference .scroll-window');
+    if (!container) return;
+    var firstLi = container.querySelector('.bibliography > li');
+    var firstRow = container.querySelector('.pub-row');
+    if (!firstRow || !firstLi) return;
+    var rowRect = firstRow.getBoundingClientRect();
+    var liStyle = window.getComputedStyle(firstLi);
+    var marginTop = parseFloat(liStyle.marginTop) || 0;
+    var marginBottom = parseFloat(liStyle.marginBottom) || 0;
+    var perItem = rowRect.height + (marginTop + marginBottom);
+  var target = perItem * 3.5; // show ~3.5 items
+    container.style.maxHeight = target + 'px';
+  }
+  function onReady(fn) {
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', fn, { once: true });
+    } else { fn(); }
+  }
+  onReady(setConferenceScrollWindowHeight);
+  var resizeTimeout;
+  window.addEventListener('resize', function() {
+    clearTimeout(resizeTimeout);
+    resizeTimeout = setTimeout(setConferenceScrollWindowHeight, 150);
+  });
+})();
+</script>
+
 # 📝 Preprints
 
 
