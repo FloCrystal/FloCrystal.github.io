@@ -198,6 +198,9 @@ Currently, my total number of citations on Google Scholar is over 200. <a href='
       {% if link.arxiv %}
         <a href="{{ link.arxiv }}" class="pub-button arxiv" role="button" target="_blank">ArXiv</a>
       {% endif %}
+	  {% if link.url %}
+        <a href="{{ link.url }}" class="pub-button" role="button" target="_blank">Link</a>
+      {% endif %}
       {% if link.huggingface_paper %}
         <a href="{{ link.huggingface_paper }}" class="pub-button huggingface-paper" role="button" target="_blank">HuggingFace Paper</a>
       {% endif %}
