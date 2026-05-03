@@ -48,6 +48,7 @@ Currently, my total number of citations on Google Scholar is over 200. <a href='
 
 <div class="news" markdown="1">
 <div class="scroll-window" markdown="1">
+- **2026.05**: &nbsp;🎉🎉 One paper have been accepted by <strong style="color: #990000;">ICML 2026</strong>!	
 - **2026.04**: &nbsp;🎉🎉 One paper have been accepted by <strong style="color: #990000;">ACL 2026</strong>!	
 - **2026.03**: &nbsp;🎉🎉 One paper have been accepted by <strong style="color: #990000;">IEEE Transactions on Circuits and Systems for Video Technology</strong>!	
 - **2026.01**: &nbsp;🎉🎉 One paper have been accepted by <strong style="color: #990000;">ICLR 2026</strong>! 
